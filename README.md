@@ -41,7 +41,7 @@ installtion:
 
 <html>
     <head>
-        <!--script src="shockwaveXHTML.js"></script-->
+        <script src="Shockwave/subLangs/swhtml.js"></script
     </head>
     <body>
         <button>test</button>
